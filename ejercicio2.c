@@ -9,6 +9,6 @@ int main() {
        
   float puntoFlotanteNumero1 = 89.8;
 
-  unsigned double puntoFlotanteNumero2 = 238.2236;
+  double puntoFlotanteNumero2 = 238.2236;
   return 0; 
 }
